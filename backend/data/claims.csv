@@ -1,0 +1,42 @@
+Claim Id,Claim Type,Policy Number,Service date,Member Name,Relationship,Provider facility name,Prescription name,Provider billed,Rx cost,Plan paid,Your Share,Status
+CLM001,Medical,W118978014,,Maudie Finch ,Spouse,Evelyn Reed,,false,,0,19.38,Processing
+CLM002,Dental,W118978014,,Maudie Finch ,Spouse,Julian Blackwood,,false,,244.52,0,Processing
+CLM003,Medical,W118978014,5/24/24,Maudie Finch ,Spouse,Julian Blackwood,,277,,244.52,0,complete
+CLM004,Medical,W118978014,2/23/24,Maudie Finch ,Spouse,Julian Blackwood,,389,,341.89,0,complete
+CLM005,Medical,W118978014,11/3/23,Maudie Finch ,Spouse,Julian Blackwood,,277,,238.22,0,complete
+CLM006,Medical,W118978014,5/15/24,Maudie Finch ,Spouse,Thomas Robinson,,792,,209.25,262.13,complete
+CLM007,Dental,W118978014,,Maudie Finch ,Spouse,ApexCare Hospital,,false,,0,34.73,Pending
+CLM008,Medical,W118978014,3/19/24,Maudie Finch ,Spouse,Duncan Arthur ,,470,,470,0,complete
+CLM009,Medical,W118978014,3/7/24,Maudie Finch ,Spouse,Rachel Haverford,,634,,193.64,48.4,complete
+CLM010,Medical,W118978014,2/26/24,Maudie Finch ,Spouse,Rachel Haverford,,323.5,,223.98,0,complete
+CLM011,vision,W118978014,,Maudie Finch ,Spouse,Stephanie Crawford,,false,,153.23,0,Pending
+CLM012,Medical,W118978014,10/23/24,Maudie Finch ,Spouse,Marcus Thorne,,686,,427.83,0,complete
+CLM013,Medical,W118978014,10/23/24,Maudie Finch ,Spouse,Maycomb General Hospital,,275,,158.95,0,complete
+CLM014,Medical,W118978014,8/20/24,Maudie Finch ,Spouse,Oakwood Medical,,14336.75,,5637.58,767.93,complete
+CLM015,Medical,W118978014,6/3/24,Maudie Finch ,Spouse,Oakwood Medical,,866,,262.09,65.53,complete
+CLM016,Medical,W118978014,5/24/24,Maudie Finch ,Spouse,Oakwood Medical,,12971.75,,4417.11,1594.4,complete
+CLM017,Dental,W118978014,,Maudie Finch ,Spouse,Oakwood Medical,,false,,44.9,11.22,Pending
+CLM018,Medical,W118978014,2/23/24,Maudie Finch ,Spouse,Oakwood Medical,,824.5,,315.81,129.01,complete
+CLM019,Medical,W118978014,2/16/24,Maudie Finch ,Spouse,Oakwood Medical,,1069,,267.46,66.87,complete
+CLM020,Medical,W118978014,11/3/23,Maudie Finch ,Spouse,Oakwood Medical,,671.5,,351.16,125.61,Denied
+CLM021,Medical,W118978014,10/27/23,Maudie Finch ,Spouse,Oakwood Medical,,1118,,303.84,75.96,Denied
+CLM022,Medical,W118978014,8/20/24,Maudie Finch ,Spouse,Calpurnia Hayes,,138,,110.4,0,Denied
+CLM023,Medical,W118978014,6/3/24,Maudie Finch ,Spouse,Calpurnia Hayes,,121.5,,77.76,19.44,complete
+CLM024,Medical,W118978014,5/17/24,Maudie Finch ,Spouse,Calpurnia Hayes,,61.5,,39.36,9.84,complete
+CLM025,Medical,W118978014,2/16/24,Maudie Finch ,Spouse,Calpurnia Hayes,,138,,88.32,22.08,complete
+CLM026,Medical,W118978014,10/27/23,Maudie Finch ,Spouse,Calpurnia Hayes,,138,,8.08,2.02,complete
+CLM027,Medical,W118978015,6/11/24,Jean Finch,Child,Lena Chen,,1596,,681.42,170.35,Processing
+CLM028,Dental,W118978015,,Jean Finch,Child,Horizon Medical Center,,false,,171.09,42.77,Processing
+CLM029,Medical,W118978015,2/22/24,Jean Finch,Child,Maycomb General Hospital,,4477.01,,1341.86,725.66,Denied
+CLM030,Medical,W118978015,6/11/24,Jean Finch,Child,Maycomb General Hospital,,164,,69.38,17.34,Denied
+CLM031,Medical,W118978015,2/22/24,Jean Finch,Child,Maycomb General Hospital,,530,,0,359.81,complete
+CLM032,Medical,W118978015,1/31/24,Jean Finch,Child,Magnolia Diagnostics Incorporated,,290.47,,20.16,5.04,complete
+CLM033,Medical,W118978015,7/1/25,Jean Finch,Child,Liam Park,,300.5,,206.61,0,complete
+CLM034,Medical,W118978015,2/16/24,Jean Finch,Child,Liam Park,,824,,350.95,38.78,complete
+CLM035,Medical,W118978015,6/11/24,Jean Finch,Child,Greenview Endoscopy Center,,1065,,606.47,151.62,complete
+CLM036,Medical,W118978013,6/30/25,Atticus Finch,Self,Harrison Wells,,286,,0,223.86,Processing
+CLM037,Medical,W118978013,3/19/25,Atticus Finch,Self,Beaumont Labs,,138.3,,35.53,0,Processing
+CLM038,Medical,W118978013,3/19/25,Atticus Finch,Self,Reynolds,,10,,5.7,0,complete
+CLM039,Medical,W118978013,3/18/25,Atticus Finch,Self,Reynolds,,251,,235.43,0,Denied
+CLM040,Medical,W118978013,3/7/24,Atticus Finch,Self,Reynolds,,266,,244.84,0,complete
+CLM041,Medical,W118978013,3/7/24,Atticus Finch,Self,Beaumont Labs,,117.3,,18.5,0,complete
